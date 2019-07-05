@@ -12,7 +12,9 @@ xlrd
 time
 datetime
 
-First Run "signup.py" then register yourself by providing the OTP to the given Email and then run "signin.py" for marking attendance.
+Open the "signup.py" and Enter the Admin or Sender Email address and password. 
+From this E-mail the OTP will be sent to the Students Registering.
+Then Run "signup.py" then register yourself by providing the OTP to the given Email and then run "signin.py" for marking attendance.
 
 
 
