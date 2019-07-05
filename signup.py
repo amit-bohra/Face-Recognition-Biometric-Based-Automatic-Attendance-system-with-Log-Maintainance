@@ -16,7 +16,7 @@ worksheet.write('F1','Gender')
 worksheet.write('G1','OTP SENT')'''
 server = smtplib.SMTP('smtp.gmail.com', 587)
 server.starttls()
-server.login("tomjerrybhaibhai@gmail.com", "Tomtom@123")
+server.login("ENTER YOUR EMAIL HERE", "ENTER YOUR PASSWORD") #Senders email and password
 v=cv2.VideoCapture(0)
 fd=cv2.CascadeClassifier(r'haarcascade_frontalface_alt2.xml')
 face_img=0
